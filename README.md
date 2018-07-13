@@ -1,4 +1,4 @@
-# Behaviour Driven Development Testing on Ikman.lk using Java, TestNG and Selenium WebDriver.
+# Testing on Ikman.lk using Java, TestNG and Selenium WebDriver.
 
 Switch to [Cucumber_BDD_Test] branch to view the test carried out using Cucumber
 
